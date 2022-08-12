@@ -1,5 +1,5 @@
 // Copyright [2022] <griselle>
-
+//Medet kdnenefo
 #include <stdio.h>
 #define NMAX 10
 
